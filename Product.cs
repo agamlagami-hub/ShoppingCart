@@ -1,12 +1,16 @@
 public class Product 
 {
-    private string Name;
-    private double Price;
+    private readonly string Name;
+    private readonly double Price;
 
     public Product(string name, double price)
     {
-        Name = name;
-        Price = price;
+        if (price > 0) 
+        {
+            Price = price;
+            Name = name;
+        }
+        else throw new Exception("Price must be positive");
     }
 
     public string GetName()

@@ -23,7 +23,7 @@ public class Cart
 
     public List<Product> GetProductsList()
     {
-        return new List<Product>(ProductsList);
+        return ProductsList;
     }
 
     public void AddProduct(Product product)
