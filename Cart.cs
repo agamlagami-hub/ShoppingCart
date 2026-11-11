@@ -41,4 +41,5 @@ public class Cart
             FullPrice -= product.GetPrice();
         }
     }
+    hahaha changes
 }
