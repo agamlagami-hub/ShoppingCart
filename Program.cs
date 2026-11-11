@@ -37,4 +37,4 @@ foreach (Product p in cartProducts) //הדפסה של מה שנותר בעגלה
 }
 Console.WriteLine(); //הדפסת שורה ריקה לשמירה על סדר באאוטפוט
 
-Console.WriteLine($"Total Price: {cart.GetFullPrice() + 0.18 * cart.GetFullPrice()}$");
+Console.WriteLine($"Total Price: {cart.GetFullPrice() + 0.18 * cart.GetFullPrice()}$"); //הדפסת המחיר הסופי בתוספת 18 אחוז מעמ
