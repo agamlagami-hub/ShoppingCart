@@ -1,16 +1,3 @@
-Product product = new Product("Milk", 6.5);
-
-List<Product> products = new List<Product>();
-products.Add(new Product("candle", 7.77));
-products.Add(product);
-
-foreach (Product p in products)
-{
-    Console.WriteLine($"{p.GetName()}: {p.GetPrice()}");
-}
-
-Product p1 = new Product("name", 20);
-
 
 // פה בבקשה תמחקי את כל הקוד לגמרי ואני רוצה שתייצרי עגלה אחת תוסיפי לה 5 מוצרים 
 // אחרי זה אני רוצה שתרוצי בלולאה של פור רגיל ואחרי זה בנפרד בפור איץ ואני רוצה שתדפיסי את כל הפריטים 
