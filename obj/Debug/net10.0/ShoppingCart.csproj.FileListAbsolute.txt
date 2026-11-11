@@ -16,3 +16,4 @@
 /home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.pdb
 /home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.genruntimeconfig.cache
 /home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ref/ShoppingCart.dll
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.sourcelink.json
