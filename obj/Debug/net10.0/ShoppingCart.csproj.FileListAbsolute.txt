@@ -1,0 +1,18 @@
+/home/ugia/Desktop/Programing/VS Code/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/home/ugia/Desktop/Programing/VS Code/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.AssemblyInfoInputs.cache
+/home/ugia/Desktop/Programing/VS Code/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.AssemblyInfo.cs
+/home/ugia/Desktop/Programing/VS Code/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.csproj.CoreCompileInputs.cache
+/home/ugia/Desktop/Programing/C#/ShoppingCart/bin/Debug/net10.0/ShoppingCart
+/home/ugia/Desktop/Programing/C#/ShoppingCart/bin/Debug/net10.0/ShoppingCart.deps.json
+/home/ugia/Desktop/Programing/C#/ShoppingCart/bin/Debug/net10.0/ShoppingCart.runtimeconfig.json
+/home/ugia/Desktop/Programing/C#/ShoppingCart/bin/Debug/net10.0/ShoppingCart.dll
+/home/ugia/Desktop/Programing/C#/ShoppingCart/bin/Debug/net10.0/ShoppingCart.pdb
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.AssemblyInfoInputs.cache
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.AssemblyInfo.cs
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.csproj.CoreCompileInputs.cache
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.dll
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/refint/ShoppingCart.dll
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.pdb
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ShoppingCart.genruntimeconfig.cache
+/home/ugia/Desktop/Programing/C#/ShoppingCart/obj/Debug/net10.0/ref/ShoppingCart.dll
